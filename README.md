@@ -30,7 +30,7 @@ Verify it at https://opentimestamps.org.
 
 | Version | Date | Fingerprint file | Timestamp proof |
 | --- | --- | --- | --- |
-| 1.0 | YYYY-MM-DD | proofs/fingerprint_YYYY-MM-DD_HHMM.txt | proofs/fingerprint_YYYY-MM-DD_HHMM.txt.ots |
+| 1.0 | 2026-10-10 | proofs/fingerprint_2026-10-10_1214.txt | proofs/fingerprint_2026-10-10_1214.txt.ots |
 
 ## Licence
 
